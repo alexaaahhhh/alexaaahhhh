@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexaaahhhh
 - 👀 I’m interested in Berserk, Hello Kitty, Techno, Coding
-- 🌱 I’m currently learning Java, Html
+- 🌱 I’m currently learning Java, Html, CSS
 - 💞️ I’m looking to collaborate on projects in the future
 - 📫 How to reach me @alexaaahhhh on Instagram/Threads
 
